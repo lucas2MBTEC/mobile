@@ -1,6 +1,6 @@
-package aula01;
+package aula;
 
-public class app2{
+public class App2{
 
 public static void main(String[] args) {
 app livro = new app();
@@ -13,5 +13,6 @@ livro.autor = "j.r.r. tolkien";
 livro.datapub = "1954";
 
 livro.dadosLivros();
+
 }
 }
